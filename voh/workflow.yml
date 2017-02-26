@@ -59,7 +59,7 @@
 - id: 1487767026437
   name: External Action
   type: playloop
-  loop_dir: '/opt/voh/playloop'
+  loop_dir: '/opt/voiceofhimalaya/playloop'
   root: false
   next: 
   bindings: []
